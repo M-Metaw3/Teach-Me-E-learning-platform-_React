@@ -1,4 +1,4 @@
-######  ITI Graduation Project (Front-end and Cross-platform Mobile Developer / R1 Assiut Branch 22/23)				
+			
 				
 # TeachMe (Courses Platform)
 
@@ -15,8 +15,7 @@
 - Postman
 - Fontawesome
 
-## Live Demo
-[Click me to go to Live Demo](https://mohamedalyahmed.github.io/TeachMe/)
+
 
 ## Installation 
 
@@ -31,10 +30,3 @@ npm install --force
 npm start
 ```
 
-
-## Team Members
-
-###### - Ahmed Magdy Mohamed
-###### - Mohamed Aly Ahmed 
-###### - Ahmed Mohamed Abozied
-###### - Ahmed Hamdy Ahmed 
